@@ -10,9 +10,9 @@
   <sprites name="sprites">
     <sprite>sprites\spr_VolCore</sprite>
     <sprites name="villagers">
-      <sprite>sprites\spr_vilMale</sprite>
       <sprite>sprites\spr_vilFemale</sprite>
       <sprite>sprites\spr_vilFire</sprite>
+      <sprite>sprites\spr_vilMale</sprite>
     </sprites>
     <sprites name="huts">
       <sprite>sprites\spr_hutOne</sprite>
