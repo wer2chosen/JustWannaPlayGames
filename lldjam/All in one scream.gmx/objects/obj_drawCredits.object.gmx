@@ -125,7 +125,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>draw_text(850,2,"Wood level is:" + wood);
+            <string>draw_text(10,25,"Wood level is: " + string(wood));
 </string>
           </argument>
         </arguments>

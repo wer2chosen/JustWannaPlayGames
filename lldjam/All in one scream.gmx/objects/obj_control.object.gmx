@@ -51,7 +51,9 @@ wood = 6;
             <kind>1</kind>
             <string>if(wood &gt; 0)
 {
-   D = instance_create(mouse_x,mouse_y,obj_hutOne)  with  ID image_index = 3  ;
+   houseID = instance_create(mouse_x,mouse_y,obj_hutOne)  with  houseID image_index = 4  ;
+  
+ 
 }
 </string>
           </argument>
